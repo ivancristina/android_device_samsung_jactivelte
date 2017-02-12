@@ -1,4 +1,4 @@
-Copyright 2016 - The CyanogenMod Project
+Copyright 2017 - The LineageOS Project
 
 Device configuration for Galaxy S4 Active (International)
 =====================================
@@ -21,4 +21,4 @@ Release Date | June 2013
 
 ![Galaxy S4A](http://cdn2.gsmarena.com/vv/pics/samsung/samsung-i9295-galaxy-s4-active-ofic.jpg "Galaxy S4A")
 
-Configuration for S4 Active (GT-I9525) by pchatzop
+Configuration for S4 Active (GT-I9525) by tsvietOK
